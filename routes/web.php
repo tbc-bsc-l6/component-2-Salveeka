@@ -37,5 +37,5 @@ Route::get('cart', [CartController::class, 'index'])->name('cart');
 
 
 // Route::get('searc')
-Route::get('search',[ProductController::class,'search'])->name('search');
+//Route::get('search',[ProductController::class,'search'])->name('search');
 //Route::post('/search',[ProductController::class,'search']);

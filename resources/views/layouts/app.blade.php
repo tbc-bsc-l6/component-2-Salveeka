@@ -67,9 +67,6 @@
                             <a href="{{ route('home') }}" class="nav-link"><span data-hover="Home">HOME</span></a>
                         </li>
                         <li class="nav-item">
-                            <a href="#portfolio" class="nav-link"><span data-hover="Work">WORK</span></a>
-                        </li>
-                        <li class="nav-item">
                             <a href="#contact" class="nav-link"><span data-hover="Contact">CONTACT</span></a>
                         </li>
                         <li class="nav-item">
@@ -80,11 +77,9 @@
                         <a href="{{ route('products.index') }}"  class="nav-link">CRUD</a>
                         </li>
                         <li class="nav-item">
-                           <a href="{{ route('cart') }}" class="nav-link">ADD TO CART</a>
+                           <a href="{{ route('cart') }}" class="nav-link">CART</a>
                         </li>
-                        <li class="nav-item">
-                        <a href="{{ route('search') }}" class="nav-link">SEARCH</a>
-                        </li>
+                    
                         
                         <!-- Authentication Links -->
                         @guest
