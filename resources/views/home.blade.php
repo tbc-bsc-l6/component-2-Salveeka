@@ -25,10 +25,13 @@
             <!-- About Section Content-->
             <div class="row">
                 <div class="col-lg-4 ms-auto">
-                    <p class="lead">A book is a medium for recording information in the form of writing or images, typically composed of many pages (made of papyrus, parchment, vellum, or paper) bound together and protected by a cover.[1] The technical term for this physical arrangement is codex (plural, codices). In the history of hand-held physical supports for extended written compositions or records, the codex replaces its predecessor, the scroll. A single sheet in a codex is a leaf and each side of a leaf is a page.</p>
+                    <p class="lead">Welcome to booksmandala.In my project you will get to see variety of books along with CDs and games.
+                    A book is a medium for recording information in the form of writing or images that is typically made up of many pages (made of papyrus, parchment, vellum, or paper) bound together and protected by a cover. The technical term for this physical phenomenon.
+                    arrangement is codex (plural, codices) (plural, codices). In the history of hand-held physical supports for \s extended written compositions or records, the codex replaces its predecessor, the scroll.
+                   </p>
                 </div>
                 <div class="col-lg-4 me-auto">
-                    <p class="lead">As an intellectual object, a book is prototypically a composition of such great length that it takes a considerable investment of time to compose and still considered as an investment of time to read. In a restricted sense, a book is a self-sufficient section or part of a longer composition, a usage reflecting that, in antiquity, long works had to be written on several scrolls and each scroll had to be identified by the book it contained. Each part of Aristotle's Physics is called a boo</p>
+                    <p class="lead"> A leaf is a single sheet in a codex, and each side of a leaf is a page.As an intellectual object, a book is prototypically a composition of such great length that it takes a considerable investment of time to compose and still considered as an investment of time to read. In a restricted sense, a book is a self-sufficient section or part of a longer composition, a usage reflecting that, in antiquity, long works had to be written on several scrolls and each scroll had to be identified by the book it contained.</p>
                 </div>
             </div>
            
