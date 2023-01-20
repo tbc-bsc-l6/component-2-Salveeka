@@ -7,8 +7,6 @@
     <div class="container d-flex flex-column align-items-center" data-aos="zoom-in" data-aos-delay="100">
         <h1 style = "color: white;">WELCOME TO BOOKS MANDALA</h1>
         <h1 style = "color: white;">SALVEEKA GURUNG</h1>
-      
-        <a href="{{('#portfolio')}}" class="btn-about">WORK</a>
     </div>
 </section>
 

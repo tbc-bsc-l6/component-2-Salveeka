@@ -11,7 +11,17 @@
     <title>{{ config('app.name', 'WORK') }}</title>
 
 
+    <link href="img/favicon.ico" rel="icon">
 
+ <!-- Google Web Fonts -->
+   <link rel="preconnect" href="https://fonts.gstatic.com">
+   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet"> 
+
+<!-- Font Awesome -->
+   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+
+<!-- Libraries Stylesheet -->
+    <link href="{{asset('lib/owlcarousel/assets/owl.carousel.min.css')}}" rel="stylesheet">
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
@@ -115,6 +125,7 @@
             <div class="dropdown">
                 <button type="button" class="btn btn-primary text-white" data-toggle="dropdown">
                     CART
+                    <i class="fa-light fa-cart-shopping"></i>
                     <span class="badge badge-pill badge-danger">{{ count((array) session('cart')) }}</span>
                 </button>
                 <div class="dropdown-menu">
@@ -146,7 +157,7 @@
                     @endforeach
                     @endif
                     <div class="row">
-                        <div class="col-lg-12 col-sm-12 col-12 text-center checkout">
+                        <div class="col-lg-12 text-center checkout">
                             <a href="{{ route('cart') }}" class="btn btn-primary btn-block">View all</a>
                         </div>
                     </div>
@@ -158,7 +169,7 @@
             
                
 
-                @yield('content')
+           @yield('content')
       
         </main>
 

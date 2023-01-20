@@ -13,7 +13,9 @@ body {
 html {
 	overflow-x:hidden;
 }
-
+.lead{
+  font-family: 'Open Sans', sans-serif;
+}
 h1,h2,h3,h4,h5,h6 {
 	font-family: 'Open Sans', sans-serif;
 	font-weight:200;
@@ -193,7 +195,7 @@ a:hover,a:focus {
   height: 100vh;
   background: url("../img/hero-bg.jpg") top right;
   background-size: cover;
-  opacity: 85%;
+  opacity: 90%;
 }
 #hero .container {
   padding-top: 70px;
